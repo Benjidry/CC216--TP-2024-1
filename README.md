@@ -18,5 +18,3 @@ Conjunto de datos modificado con datos faltantes y atípicos.
 Informe de análisis con inferencias básicas sobre las reservas de hotel urbanas y tipo resort.
 Conjunto de Datos:
 El conjunto de datos recopila información de reservas en un hotel urbano y uno tipo resort, incluyendo detalles como fecha de reserva, duración de estadía, disponibilidad de estacionamiento, número de huéspedes adultos, niños y/o bebés, entre otros.
-
-¡Siéntete libre de explorar el análisis y contribuir con tus propias ideas y mejoras!
