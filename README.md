@@ -2,7 +2,7 @@
 
 # Autores
 
--Natalia Milagros, Huamanchumo Arroyo ()
+-Natalia Milagros, Huamanchumo Arroyo ()   
 -Azariel Benjamin, Gonzales Rivera (benjidry@hotmail.com)
 
 # Breve descripcion
